@@ -1,6 +1,6 @@
-## Interface: 90001
+## Interface: 90002
 ## Title: Abyss|cff0d75d4UI|r_TexturePack
-## Version: 1.0.1.5
+## Version: 1.0.1.7
 ## Author: Yugen
 ## Notes-enUS: Minimalist Texture Pack for AbyssUI
 ## Notes-ptBR: Texturas Minimalistas para AbyssUI
